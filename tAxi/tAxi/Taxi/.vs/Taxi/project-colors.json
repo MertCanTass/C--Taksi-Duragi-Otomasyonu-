@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "b82ddc6a-4c92-4dd3-a6c7-5a0fc358b2a9": {
+      "ProjectGuid": "b82ddc6a-4c92-4dd3-a6c7-5a0fc358b2a9",
+      "DisplayName": "Taxi",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Diğer Dosyalar",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 1
+}
